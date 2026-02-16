@@ -1,0 +1,30 @@
+body
+{
+    background-color: gray;
+}
+
+h1
+{
+    font-family: arial;
+    text-align: center;
+    color: white;
+
+    background-color: red;
+}
+
+p
+{
+    font-size: 200%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+a
+{
+    font-size: 300%;
+    border: dotted;
+    border-width: 20px;
+    border-color: yellow;
+    text-decoration: line-through;
+    background-color: pink;
+}
