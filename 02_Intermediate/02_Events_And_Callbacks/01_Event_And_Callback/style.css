@@ -1,0 +1,41 @@
+#big-button1
+{
+    position: absolute;
+    left: 200px;
+
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 15px;
+
+    background-color: yellow;
+}
+#big-button1:hover
+{
+    background-color: green;
+}
+#big-button1:active
+{
+    background-color: red;
+}
+
+#big-button2
+{
+    position: absolute;
+    right: 200px;
+
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 15px;
+
+    background-color: white;
+}
+#big-button2:hover
+{
+    background-color: gray;
+}
+#big-button2:active
+{
+    background-color: purple;
+}
