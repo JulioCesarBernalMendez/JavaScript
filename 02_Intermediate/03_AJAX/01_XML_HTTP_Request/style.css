@@ -1,0 +1,24 @@
+#big-button
+{
+    position: relative;
+    top: 20px;
+
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+div h2
+{
+    position: relative;
+    left: 250px;
+    color: green;
+}
+
+div img
+{
+    position: relative;
+    left: 50px;
+    border: 20px dotted red;
+}
